@@ -4,11 +4,11 @@ se3050---uee-2021s2_reg_we_62 created by GitHub Classroom
 
 Group Members
 
-Ramanayake A.R.D.Y. Y     IT19164304
+IT19164304-Ramanayake A.R.D.Y. Y     
 
-Fernando P.P. A           IT19159454
+IT19159454-Fernando P.P. A      
 
-Prasad R.M                IT19022116
+IT19022116-Prasad R.M               
 
 Our mobile application repositary link - https://github.com/yasinduramanayake/E-channeling-Mobile-Front-End
 
