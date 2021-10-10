@@ -12,4 +12,4 @@ Prasad R.M                IT19022116
 
 Our mobile application repositary link - https://github.com/yasinduramanayake/E-channeling-Mobile-Front-End
 
-(4 branches included - Master , yasindu -Ramanayake A.R.D.Y. Y ,madura - Prasad R.M   ,pubudi - Fernando P.P.A  )
+(4 branches included - Master ,  yasindu -Ramanayake A.R.D.Y. Y ,  madura - Prasad R.M ,  pubudi - Fernando P.P.A  )
